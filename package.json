@@ -1,0 +1,12 @@
+{
+  "name": "rideshare-99",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "AGPL-3.0-only"
+}
